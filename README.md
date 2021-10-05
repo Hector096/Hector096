@@ -46,7 +46,7 @@
   
 
   <img align="left" alt="Hector's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hector096&show_icons=true&hide_border=true" />
-  ![Hector's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hector096&show_icons=true&hide_border=true&theme=dark)<span>   </span>![Hectors's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hector096&theme=dark)
+  ![Hector's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hector096&show_icons=true&hide_border=true&theme=dark)<span>   </span> ![Hectors's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hector096&theme=dark)
 
 [website]: https://hector096.github.io/My-Portfolio/
 [twitter]: https://twitter.com/SpookyHector
