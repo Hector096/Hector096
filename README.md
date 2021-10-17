@@ -42,6 +42,7 @@
 
 ### :zap: Recent GitHub Activity
 
+
 ![Hector's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hector096&show_icons=true&hide_border=true&theme=dark)
 
 ![Hectors's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hector096&hide_border=true&theme=dark)
