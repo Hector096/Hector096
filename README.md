@@ -3,7 +3,7 @@
 
 ## I'm a Athlete, Developer and Learner!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking for my next job.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm absolutely mad about Football.
