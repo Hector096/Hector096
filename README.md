@@ -46,4 +46,4 @@
 [website]: https://hector096.github.io/My-Portfolio/
 [twitter]: https://twitter.com/SpookyHector
 [youtube]: https://www.youtube.com/channel/UCqef_2ktnF9h4gNxkSP7ABw
-[linkedin]: https://www.linkedin.com/in/vishal-verma-9191b8126/
+[linkedin]: https://www.linkedin.com/in/hector096
