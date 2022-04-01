@@ -14,7 +14,7 @@
 [<img align="left" alt="Hector | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Hector | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Hector | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hector | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angelist.svg" />][linkedin]
+[<img align="left" alt="Hector | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][angellist]
 <br />
 
 ### Languages and Tools:
@@ -48,3 +48,4 @@
 [twitter]: https://twitter.com/SpookyHector
 [youtube]: https://www.youtube.com/channel/UCqef_2ktnF9h4gNxkSP7ABw
 [linkedin]: https://www.linkedin.com/in/hector096
+[angellist]: https://angel.co/u/hector096
