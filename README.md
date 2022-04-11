@@ -3,7 +3,7 @@
 
 ## I'm a Athlete, Developer and Learner!!
 
-- 🌱 I’m currently learning blockchain development�
+- 🌱 I’m currently learning blockchain development �
 - 👯 I’m looking for my next job.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm absolutely mad about Football.
