@@ -1,7 +1,7 @@
 ## Hi there, I'm Vishal - aka [Hector][website] 👋
 
 
-## I'm a Athlete, Developer and Learner!!
+## I'm an Athlete, Developer and Learner!!
 
 - 🌱 I’m currently learning blockchain development�
 - 👯 I’m looking for my next job.
