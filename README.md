@@ -4,7 +4,7 @@
 ## I'm an Athlete, Developer and Learner!!
 
 - 🌱 I’m currently learning blockchain development�
-- 👯 I’m looking for my next job.
+- 👯 Gamer (Valorant).
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm absolutely mad about Football.
 
