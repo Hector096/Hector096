@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning blockchain development�
 - 👯 Gamer (Valorant).
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm absolutely mad about Football.
 
 ### Connect with me:
