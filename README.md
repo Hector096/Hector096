@@ -45,7 +45,4 @@
 ![Hectors's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hector096&hide_border=true&theme=dark)
 
 [website]: https://hector096.github.io/My-Portfolio/
-[twitter]: https://twitter.com/SpookyHector
-[youtube]: https://www.youtube.com/channel/UCqef_2ktnF9h4gNxkSP7ABw
 [linkedin]: https://www.linkedin.com/in/hector096
-[angellist]: https://angel.co/u/hector096
