@@ -4,17 +4,13 @@
 ## I'm an Athlete, Developer and Learner!!
 
 - 🌱 I’m currently learning blockchain development�
-- 👯 Gamer (Valorant).
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I'm absolutely mad about Football.
 
 ### Connect with me:
 
 [<img align="left" alt="Hector" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Hector | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Hector | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Hector | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hector | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][angellist]
 <br />
 
 ### Languages and Tools:
