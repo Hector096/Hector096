@@ -3,9 +3,7 @@
 
 ## I'm an Athlete, Developer and Learner!!
 
-- 🌱 I’m currently learning blockchain development�
-- 🥅 2024 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I'm absolutely mad about Football.
+- 🌱 I’m currently learning Data Science�
 
 ### Connect with me:
 
